@@ -6,10 +6,9 @@
 
 ## About me
 
-<div style="color: brown;display: flex;">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</div>
+<div style="color: brown">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</div>
 </div>
 
-***
 <div>
 <div>
 
@@ -25,4 +24,3 @@
 
 </div>
 </div>
-***
