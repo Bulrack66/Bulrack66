@@ -2,7 +2,7 @@
 
 # Bulrack66
 
-[spoiler]<img src="https://avatars.githubusercontent.com/u/113458279?s=400&u=cfec7071d3e55e1baaa5f9273048bb8cafb0ed0d&v=4" alt="drawing" width="200"/>[spoiler]
+[spoiler]![Logo]("https://avatars.githubusercontent.com/u/113458279?s=400&u=cfec7071d3e55e1baaa5f9273048bb8cafb0ed0d&v=4")[spoiler]
 # About me
 
 [color=#ABB7D2]I'm still not a web developer, I'm studying and try my best to get in the coding's world.[/color]
