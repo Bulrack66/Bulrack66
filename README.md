@@ -30,4 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulrack66&exclude_repo=La-Panthere-origin&layout=compact)](https://github.com/Bulrack66/github-readme-stats)
 
+## Trophies
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
 </div>
