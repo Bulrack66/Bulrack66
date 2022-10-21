@@ -20,7 +20,7 @@
 
 ### Tools
 
-<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png" alt="GitHub"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="Sass" width="70"/>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 ***
 
