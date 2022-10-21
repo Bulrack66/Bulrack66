@@ -1,6 +1,6 @@
 # Bulrack66
 
-![Logo](<https://avatars.githubusercontent.com/u/113458279?s=400&u=cfec7071d3e55e1baaa5f9273048bb8cafb0ed0d&v=4>)
+[![Logo](https://avatars.githubusercontent.com/u/113458279?s=400&u=cfec7071d3e55e1baaa5f9273048bb8cafb0ed0d&v=4) =250x]
 
 # About me
 I'm still not a web developer, I'm studying and try my best to get in this coding world.
