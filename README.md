@@ -6,7 +6,7 @@
 
 ## About me
 
-#### I'm still not a web developer, I'm studying and try my best to get in the coding's world.
+#### [color=#adb6d0]I'm still not a web developer, I'm studying and try my best to get in the coding's world.[/color]
 </div>
 
 <div>
