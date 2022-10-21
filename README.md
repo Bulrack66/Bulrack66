@@ -8,7 +8,7 @@ I'm still not a web developer, I'm studying and try my best to get in the coding
 
 # Languages
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F11419&psig=AOvVaw3vJF9M6acQe2lOn2lLoqOJ&ust=1666437266741000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjG8JiZ8foCFQAAAAAdAAAAABAE" alt="Languages"/>
+<img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages"/>
 
 # Tools
 
