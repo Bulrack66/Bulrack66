@@ -6,8 +6,8 @@
 
 ## About me
 
-#### [color=white]I'm still not a web developer, I'm studying and try my best to get in the coding's world.[/color]
-</div>
+<span style="color: #ADB7C6; backgruond-color: #ea4f85">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</span>
+
 
 <div>
 <div>
@@ -16,8 +16,7 @@
 ### Languages
 
 <img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="200"/>
-</div>
-<div>
+
 
 ### Tools
 
@@ -25,5 +24,4 @@
 
 ***
 
-</div>
 </div>
