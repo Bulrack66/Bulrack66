@@ -32,5 +32,5 @@
 
 ## Trophies
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)]
 </div>
