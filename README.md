@@ -6,7 +6,7 @@
 
 ## About me
 
-<span style="color: #ADB7C6; backgruond-color: #ea4f85">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</span>
+<span style="color: #ADB7C6; background-color: #ea4f85">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</span>
 
 
 <div>
