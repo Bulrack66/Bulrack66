@@ -24,4 +24,8 @@
 
 ***
 
+## Resume:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bulrack66&layout=compact)](https://github.com/Bulrack66/github-readme-stats)
+
 </div>
