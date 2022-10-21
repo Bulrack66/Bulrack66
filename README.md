@@ -13,15 +13,15 @@
 <div>
 
 ***
-### Languages
+### Languages                                                                       |
 
-<img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="200"/>
+# <img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="200"/> |
 </div>
 <div>
 
-### Tools
+### Tools                                                                         |
 
-<img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png" alt="GitHub"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="Sass" width="70"/>
+# <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png" alt="GitHub"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="Sass" width="70"/> |
 
 ***
 
