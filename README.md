@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FD428E&background=141321&center=true&vCenter=true&width=435&lines=...A+long+time+ago+;In+a+galaxy+far%2C+far+away...)](https://git.io/typing-svg)
 
-![snake gif](https://github.com/Bulrack66/Bulrack66/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Bulrack66/blob/output/github-contribution-grid-snake.gif)
 
 ## About me
 
