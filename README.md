@@ -34,5 +34,5 @@
 
 ## Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bulrak66&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Bulrack66&theme=radical)
 </div>
