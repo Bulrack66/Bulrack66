@@ -6,7 +6,7 @@ I'm still not a web developer, I'm studying and try my best to get in this codin
 
 #
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
 
 ## Visitor
 
