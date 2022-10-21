@@ -11,6 +11,7 @@
 
 <div>
 <div>
+***
 
 ### Languages
 
@@ -21,6 +22,8 @@
 ### Tools
 
 <img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png" alt="GitHub"/> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="Sass" width="70"/>
+
+***
 
 </div>
 </div>
