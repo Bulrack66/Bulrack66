@@ -8,7 +8,7 @@ I'm still not a web developer, I'm studying and try my best to get in the coding
 
 # Languages
 
-<img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages"/>
+<img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="64"/>
 
 # Tools
 
