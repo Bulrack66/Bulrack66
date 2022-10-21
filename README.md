@@ -1,9 +1,5 @@
 <div align="center">
 
-# Bulrack66
-
-<img src="https://avatars.githubusercontent.com/u/113458279?s=400&u=cfec7071d3e55e1baaa5f9273048bb8cafb0ed0d&v=4" alt="drawing" width="200"/>
-
 ## About me
 
 <span style="color: #ADB7C6; background-color: #ea4f85">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</span>
