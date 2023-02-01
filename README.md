@@ -19,7 +19,7 @@
 
 ### Tools
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color: white; border-radius: 50%;"/><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /></div>
+<div style="display: flex; align-items: flex-start; background-color: white; border-radius: 50%;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" /></div>
 
 ***
 
