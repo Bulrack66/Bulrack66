@@ -5,7 +5,7 @@
 
 ## About me
 
-<span style="color: #ADB7C6; background-color: #ea4f85">I'm still not a web developer, I'm studying and try my best to get in the coding's world.</span>
+<span style="color: #ADB7C6; background-color: #ea4f85">I'm a lot of thing refrigeration engineer and web developer those two are my favorite activities, always studying and trying my best to get my dreams in my projects</span>
 
 
 <div>
