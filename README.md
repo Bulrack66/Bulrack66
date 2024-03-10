@@ -15,6 +15,8 @@
 ### Languages
 
 <img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="200"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Languages" width="200"/>
+
 
 
 ### Tools
