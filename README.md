@@ -14,8 +14,8 @@
 ***
 ### Languages
 
-<img src="https://github.com/Bulrack66/Bulrack66/blob/main/Languages.png?raw=true" alt="Languages" width="200"/>
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Languages" width="200"/>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="58" height="58" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="58" height="58" /></div>
+
 
 
 
